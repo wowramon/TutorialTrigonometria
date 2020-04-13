@@ -1,0 +1,2395 @@
+fileFormatVersion: 2
+guid: 218c865dc83171943b24db8c1297a481
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6974887937991308277
+    second: TutoAtlas_0
+  - first:
+      213: -1539988983760062275
+    second: TutoAtlas_1
+  - first:
+      213: -6970113105531130620
+    second: TutoAtlas_2
+  - first:
+      213: -5244764566574506952
+    second: TutoAtlas_3
+  - first:
+      213: -3451194199079253294
+    second: TutoAtlas_4
+  - first:
+      213: -1026505417020732059
+    second: TutoAtlas_5
+  - first:
+      213: -8958014297377752078
+    second: TutoAtlas_6
+  - first:
+      213: 54997648501786317
+    second: TutoAtlas_7
+  - first:
+      213: 8006164576696435617
+    second: TutoAtlas_8
+  - first:
+      213: -6517707805977373567
+    second: TutoAtlas_9
+  - first:
+      213: -7629193399510826712
+    second: TutoAtlas_10
+  - first:
+      213: 1513379416453538017
+    second: TutoAtlas_11
+  - first:
+      213: 6925596026966320324
+    second: TutoAtlas_12
+  - first:
+      213: -9100819303570782140
+    second: TutoAtlas_13
+  - first:
+      213: -5483150101503756772
+    second: TutoAtlas_14
+  - first:
+      213: 843629606271745747
+    second: TutoAtlas_15
+  - first:
+      213: 1877448261061275509
+    second: TutoAtlas_16
+  - first:
+      213: -3089535911483538439
+    second: TutoAtlas_17
+  - first:
+      213: -7785411636869777811
+    second: TutoAtlas_18
+  - first:
+      213: -5807630712712503102
+    second: TutoAtlas_19
+  - first:
+      213: 854076416996487588
+    second: TutoAtlas_20
+  - first:
+      213: -3832935026759928031
+    second: TutoAtlas_21
+  - first:
+      213: -3810868612754099455
+    second: TutoAtlas_22
+  - first:
+      213: 160347875002362956
+    second: TutoAtlas_23
+  - first:
+      213: -8538593813178511629
+    second: TutoAtlas_24
+  - first:
+      213: -6845902667670760266
+    second: TutoAtlas_25
+  - first:
+      213: 4082547464793740409
+    second: TutoAtlas_26
+  - first:
+      213: 4058642558683442437
+    second: TutoAtlas_27
+  - first:
+      213: 448199975820178652
+    second: TutoAtlas_28
+  - first:
+      213: 5428033706321584746
+    second: TutoAtlas_29
+  - first:
+      213: 8084094755174093783
+    second: TutoAtlas_30
+  - first:
+      213: 39364978877403510
+    second: TutoAtlas_31
+  - first:
+      213: -2717475992085833121
+    second: TutoAtlas_32
+  - first:
+      213: -2584454084659668356
+    second: TutoAtlas_33
+  - first:
+      213: 2147619700908449386
+    second: TutoAtlas_34
+  - first:
+      213: 8769653023137626524
+    second: TutoAtlas_35
+  - first:
+      213: -1834252432561554517
+    second: TutoAtlas_36
+  - first:
+      213: -5336050934087004393
+    second: TutoAtlas_37
+  - first:
+      213: -1924727343849741753
+    second: TutoAtlas_38
+  - first:
+      213: -585698137748142096
+    second: TutoAtlas_39
+  - first:
+      213: 4689459492975745431
+    second: TutoAtlas_40
+  - first:
+      213: -270342320797363323
+    second: TutoAtlas_41
+  - first:
+      213: -1804296721328229181
+    second: TutoAtlas_42
+  - first:
+      213: -6534809550364303330
+    second: TutoAtlas_43
+  - first:
+      213: -899680657205867332
+    second: TutoAtlas_44
+  - first:
+      213: 6087246529166920881
+    second: TutoAtlas_45
+  - first:
+      213: 5422347287237328011
+    second: TutoAtlas_46
+  - first:
+      213: 1250933820171741198
+    second: TutoAtlas_47
+  - first:
+      213: -157880727639754071
+    second: TutoAtlas_48
+  - first:
+      213: -7653219134248457621
+    second: TutoAtlas_49
+  - first:
+      213: -2569042145917684104
+    second: TutoAtlas_50
+  - first:
+      213: -8910553643892810659
+    second: TutoAtlas_51
+  - first:
+      213: 3188709594407615623
+    second: TutoAtlas_52
+  - first:
+      213: -1938916721858820111
+    second: TutoAtlas_53
+  - first:
+      213: 2205155890849473181
+    second: TutoAtlas_54
+  - first:
+      213: -6867845356072975429
+    second: TutoAtlas_55
+  - first:
+      213: 1268246010522736566
+    second: TutoAtlas_56
+  - first:
+      213: 3299397878781447512
+    second: TutoAtlas_57
+  - first:
+      213: -8351574012335655065
+    second: TutoAtlas_58
+  - first:
+      213: -7678863517277649535
+    second: TutoAtlas_59
+  - first:
+      213: 8223491046556525751
+    second: TutoAtlas_60
+  - first:
+      213: 1702649179461289052
+    second: TutoAtlas_61
+  - first:
+      213: -3814207305085471508
+    second: TutoAtlas_62
+  - first:
+      213: 3099635505328133985
+    second: TutoAtlas_63
+  - first:
+      213: 2513387003860758682
+    second: TutoAtlas_64
+  - first:
+      213: 1706633917802744486
+    second: TutoAtlas_65
+  - first:
+      213: -980961402649064080
+    second: TutoAtlas_66
+  - first:
+      213: -4935407401575843441
+    second: TutoAtlas_67
+  - first:
+      213: -6774356252164801798
+    second: TutoAtlas_68
+  - first:
+      213: -8804926509459202537
+    second: TutoAtlas_69
+  - first:
+      213: 3746357933711723492
+    second: TutoAtlas_70
+  - first:
+      213: -613276831338929070
+    second: TutoAtlas_71
+  - first:
+      213: -7063831308765563726
+    second: TutoAtlas_72
+  - first:
+      213: -341557517811784634
+    second: TutoAtlas_73
+  - first:
+      213: 3271004606127987544
+    second: TutoAtlas_74
+  - first:
+      213: 8877721139639860266
+    second: TutoAtlas_75
+  - first:
+      213: 2940757035739913037
+    second: TutoAtlas_76
+  - first:
+      213: -21391543176406273
+    second: TutoAtlas_77
+  - first:
+      213: 3998425395496981268
+    second: TutoAtlas_78
+  - first:
+      213: 4828807262875425361
+    second: TutoAtlas_79
+  - first:
+      213: 4131488076979448629
+    second: TutoAtlas_80
+  - first:
+      213: -6575429436970928904
+    second: TutoAtlas_81
+  - first:
+      213: 9120015011025374715
+    second: TutoAtlas_82
+  - first:
+      213: -3898195009705578157
+    second: TutoAtlas_83
+  - first:
+      213: -5362539549767131946
+    second: TutoAtlas_84
+  - first:
+      213: -8477232276689240686
+    second: TutoAtlas_85
+  - first:
+      213: 6410803589961134436
+    second: TutoAtlas_86
+  - first:
+      213: -2612978845552621748
+    second: TutoAtlas_87
+  - first:
+      213: -6213151028201904477
+    second: TutoAtlas_88
+  - first:
+      213: 2842611427135430001
+    second: TutoAtlas_89
+  - first:
+      213: -2763561082070724921
+    second: TutoAtlas_90
+  - first:
+      213: -1484112493577010066
+    second: TutoAtlas_91
+  - first:
+      213: 3353056583824120581
+    second: TutoAtlas_92
+  - first:
+      213: 4151159418163316080
+    second: TutoAtlas_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TutoAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 434
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b4c8ae459f4d7499a37ed71b05cd9e
+      internalID: 6974887937991308277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 428
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f59e2599f54d44a72f7c333b72e37
+      internalID: -1539988983760062275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 431
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c56ee453a948544388e6e17b8c1af7b
+      internalID: -6970113105531130620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 430
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec5da41ced55f44beee9bc3dc1113a
+      internalID: -5244764566574506952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce60e77ef7c1e42ba34182ce86d9d9
+      internalID: -3451194199079253294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 398
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f148fa437f6d438ade07f4fb2b4fb
+      internalID: -1026505417020732059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 364
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d4dae7b0000e4da83d5c5c6e7f4c9
+      internalID: -8958014297377752078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 363
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1214592c88a4d47bb9a6141897a164
+      internalID: 54997648501786317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 335
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2db73fe89e0a49ad3aed4950a15dd
+      internalID: 8006164576696435617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 338
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ea296312b5a54d8f0b229d25f6319
+      internalID: -6517707805977373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324fceceef89b9f4b8e3211866478ceb
+      internalID: -7629193399510826712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 344
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df39c621d52c74daa6c83b5c125176
+      internalID: 1513379416453538017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 345
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74e40d07150384da9687f61367561e
+      internalID: 6925596026966320324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 324
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ab90e4662b944f87620ff147aa4c5
+      internalID: -9100819303570782140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 346
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327a0a6901a4154f8cb790f5703eac3
+      internalID: -5483150101503756772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 332
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc75a86fa0adc464e9985d31529f084a
+      internalID: 843629606271745747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eb15edbc5890a43a74bf6634fea43a
+      internalID: 1877448261061275509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8608cb4062bc114b8e6efae2e5e5576
+      internalID: -3089535911483538439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfde52ae1fbe041a32367598543a11
+      internalID: -7785411636869777811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 324
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa430a3c7e67e404f8b9027456ba8183
+      internalID: -5807630712712503102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15b67a2095bb149be7fd388c1a448a
+      internalID: 854076416996487588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 324
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc40c91453ef69498fcd3c773f0c5d5
+      internalID: -3832935026759928031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 322
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b80726df2c564e95a4c4ca23c2dc6
+      internalID: -3810868612754099455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 308
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c4a04ad53bdc4bb93decf67f85477
+      internalID: 160347875002362956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccee533f5fddf43a0a6c26dc84c6c0
+      internalID: -8538593813178511629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 311
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a3211a4260a048905d2d82c930763
+      internalID: -6845902667670760266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 295
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea436f4212176c4b8b663f6cf17691f
+      internalID: 4082547464793740409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 291
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef60bd62a58afd4ba313782c0313a0e
+      internalID: 4058642558683442437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 302
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a07abc3a377b5349bbdb29195c1850e
+      internalID: 448199975820178652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0a58f8910ec74789179decd8d3260
+      internalID: 5428033706321584746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 290
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fd2718c61bfe489e55f3ee7b025a9
+      internalID: 8084094755174093783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 295
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb50a95c205c484683321b7efbf3a2c
+      internalID: 39364978877403510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 290
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cae862ae9ba0e34d8684b01cd3e15ff
+      internalID: -2717475992085833121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 286
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237e5ba2adda12409eb91b8116833cf
+      internalID: -2584454084659668356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 271
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e468224aa88ae46a94c111e6ea2f9a
+      internalID: 2147619700908449386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 270
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70afb7e2e30f5ec4f8ce72aa874cad8a
+      internalID: 8769653023137626524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b141bcb9534349872b61b067d4945
+      internalID: -1834252432561554517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 218
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb37e1332e040408d46d06b3f8bd97
+      internalID: -5336050934087004393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 217
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b00b3a1b2dc0de4593f795c4115b16e
+      internalID: -1924727343849741753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 217
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7b1550f9891e46a1fc92cfccfe89c
+      internalID: -585698137748142096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 218
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39681440ba08b049acae977557737c4
+      internalID: 4689459492975745431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 218
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60783fbeca2ebf340941d483e7f2a93c
+      internalID: -270342320797363323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 218
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aecb338e8416149a0de1e484d72e64
+      internalID: -1804296721328229181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 219
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383238319883664a8c007d7288768cc
+      internalID: -6534809550364303330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 218
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4349f7127f41af1408de7a7403e139b6
+      internalID: -899680657205867332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 212
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbeb918cb9e1da4c8b0acb41afc1e21
+      internalID: 6087246529166920881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 212
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8756ac77bc2846b1a6db5ff7bca51
+      internalID: 5422347287237328011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ef328642bec640b711317e107e4c6
+      internalID: 1250933820171741198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 189
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452ce65b7d048746acfa13523e3ee5c
+      internalID: -157880727639754071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 190
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa505913372ac8499d9e39e23bd1068
+      internalID: -7653219134248457621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 189
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d93fd2a1e574645b86023f62d1279a
+      internalID: -2569042145917684104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 182
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b53419f407fd4f95834a8336902e8
+      internalID: -8910553643892810659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa95fbbe6e55742a392dc34619daf0
+      internalID: 3188709594407615623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 183
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0877b9ae9c1c84790af5ee2242fa34
+      internalID: -1938916721858820111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 183
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17db63d5ed2044647a4a3e12cd13d5c7
+      internalID: 2205155890849473181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 182
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfcc407cab99a64f97de8c94a777e4f
+      internalID: -6867845356072975429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 185
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fa376a00521c049a7935aa7927f2ab
+      internalID: 1268246010522736566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 185
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614b9e95536f694c969527accf084e2
+      internalID: 3299397878781447512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97b3dede43fe343ac3c1049d094acd
+      internalID: -8351574012335655065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a065560ba3e284592a2d1d8529d3e4
+      internalID: -7678863517277649535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 162
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf225f839a53dda4cab63a8c702c38c4
+      internalID: 8223491046556525751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 139
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c266fa84673f7784fbd6b3afc8332942
+      internalID: 1702649179461289052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 137
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb50f6fe7d8bd84f9528f581b109cbc
+      internalID: -3814207305085471508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e374b9f49b15454b95f9f8e4ede5de0
+      internalID: 3099635505328133985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f84b3fa25ad7043bab4d776a7dfdfb
+      internalID: 2513387003860758682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 136
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8fb744944eb8d468b5af09d9280dc8
+      internalID: 1706633917802744486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16726f0b3d665499c51290a202b78a
+      internalID: -980961402649064080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 138
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6bc6e63e7a0ee4486ec2eded30f6cd
+      internalID: -4935407401575843441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 138
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7592f85a0a2d1b48bac47c2671b4cd4
+      internalID: -6774356252164801798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d769e88f810a645ab0d06ea391429e
+      internalID: -8804926509459202537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 132
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737695d312e4f5478476842c7f7df50
+      internalID: 3746357933711723492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 114
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b172ea4cd145f64ea6b02e48d55ef70
+      internalID: -613276831338929070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 111
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228f96829afc7be4eb2554d03357bbb2
+      internalID: -7063831308765563726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 112
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b77c7facc053c428f29a092ead4b74
+      internalID: -341557517811784634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83da305bd03aa48bd1af225ee43762
+      internalID: 3271004606127987544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 110
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa867840669fe47b7651c07b0d952a
+      internalID: 8877721139639860266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 110
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03b7b528938614c97167191f10a376
+      internalID: 2940757035739913037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 112
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325bdb1047cd2346beeb6f1c4c6c9fe
+      internalID: -21391543176406273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 113
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b4ef471502a543a74213d5035f9b4
+      internalID: 3998425395496981268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 83
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a1142e8db07147a130e23345f7d42
+      internalID: 4828807262875425361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 83
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c25f312ac82c429e3e559d1820418
+      internalID: 4131488076979448629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936884bc13ee964b91b3285e27cba13
+      internalID: -6575429436970928904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_82
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770e4b45ee579243841922da4ba1b2e
+      internalID: 9120015011025374715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 46
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113a06a413d41847879fce1014b96d2
+      internalID: -3898195009705578157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e95eb23c2697148b7c3cfcd5634c2a
+      internalID: -5362539549767131946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 45
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f5a2aabd85da40b5a1431778425f1
+      internalID: -8477232276689240686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 53
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62797f0edaee976498e21a5289fd3451
+      internalID: 6410803589961134436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 52
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e0ce25d045969428f506c3deb65f62
+      internalID: -2612978845552621748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 53
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806a57dc68241904e8a4aa5109515683
+      internalID: -6213151028201904477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4078bfbb2851b4ba7472e18c93ff98
+      internalID: 2842611427135430001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_90
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049ba15b4e2a9c49b9f9644d4c4a656
+      internalID: -2763561082070724921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eca883e7c57b345a51b176aba1501a
+      internalID: -1484112493577010066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_92
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5085a41d1cc190d45aa5df5c97f538a1
+      internalID: 3353056583824120581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TutoAtlas_93
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c2aba946823b41b4a369007b2e569
+      internalID: 4151159418163316080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27d645442529f3d4281c65204a242ffa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
